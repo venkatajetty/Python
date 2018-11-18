@@ -1,2 +1,2 @@
 # Python
-Practise scripts
+Practice scripts
